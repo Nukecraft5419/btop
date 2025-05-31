@@ -41,7 +41,7 @@
 > This theme is also compatible with [Bpytop](https://github.com/aristocratos/bpytop).
 
 1. Download the [latest release](https://github.com/catppuccin/btop/releases/latest) of the theme.
-2. Copy the flavor(s) of your choice to `$XDG_CONFIG_HOME/btop/themes/` (or `$XDG_CONFIG_HOME/bpytop/themes/`).
+2. Copy the flavor(s) of your choice to `~/.config/btop/themes/`.
 
 > [!NOTE]
 > If `$XDG_CONFIG_HOME` is not set or empty, copy files to `~/.config` instead.
